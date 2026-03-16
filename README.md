@@ -95,5 +95,4 @@ Progress: `[██████░░░░░░░░░░]` 35%
 <p align="center">
   <b>CURRENTLY BUILDING: <a href="https://github.com/QueenDIAMOND7/SpendSat">SPENDSATS ⚡</a></b>
 </p>
-### Let's Connect!
-[LinkedIn Profile [Link](https://www.linkedin.com/in/queenfemidiamond/)] | **Currently building: SpendSat ⚡**
+YABIJMN
