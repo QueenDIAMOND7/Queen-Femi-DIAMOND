@@ -1,17 +1,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Technical+Product+Manager;Bitcoin+Infrastructure+Strategist;Political+Scientist+%26+Storyteller;Building+Financial+Sovereignty" alt="Typing SVG" />
 </p>
-# Queen-Femi-DIAMOND
+Queen-Femi-DIAMOND
 Strategic Project Manager &amp; Political Scientist | Focused on Bitcoin Infrastructure &amp; Financial Sovereignty in Africa.
-#  Queen Diamond | Strategic PM & Political Scientist 
+ Queen Diamond | Strategic PM & Political Scientist 
 
-> "Beyond the hype: Building financial sovereignty through the lens of Political Science, Real-World Business, and Bitcoin Infrastructure."
+"Beyond the hype: Building financial sovereignty through the lens of Political Science, Real-World Business, and Bitcoin Infrastructure."
 
-I am a **Project Manager** in training with a background in **Political Science and International Relations**. My journey hasn't been a straight line—it’s been a powerful mix of entrepreneurship, challenges, and a relentless "Proof of Work" mindset. Based in Benin, I bridge the gap between complex tech and the people who need it most.
+I am a Project Manager in training with a background in Political Science and International Relations. My journey hasn't been a straight line—it’s been a powerful mix of entrepreneurship, challenges, and a relentless "Proof of Work" mindset. Based in Benin, I bridge the gap between complex tech and the people who need it most.
 
 
 
-##  The Journey: A Fusion of Policy & Grit
+The Journey: A Fusion of Policy & Grit
 
 * The Political Lens:** I spent 3 years studying Political Science and International Relations. I don't see Bitcoin as just "code"; I see it as a tool for governance and decentralized diplomacy. I use this to navigate the complex social and regulatory landscapes of African markets.
 * Ground-Level Entrepreneurship:** I founded **AfroSnacks**, an African snack brand. I’ve handled logistics, marketing, and reached 2M CFA in revenue. I don't just build for merchants; I *was* the merchant. I understand the pain of fees, inflation, and trust.
