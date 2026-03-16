@@ -29,7 +29,7 @@ I am a **Technical Product Manager** specializing in the intersection of governa
 Three years of International Relations studies. I analyze Bitcoin not as code, but as a tool for governance and decentralized diplomacy within African markets.
 
 **Operational Entrepreneurship**
-Founder of **AfroSnacks**. Scaled to 2M CFA in revenue. I possess the unique advantage of having been the merchant; I understand the friction of fees, inflation, and trust-building firsthand.
+Founder of **AfroSnacks**. I possess the unique advantage of having been the merchant; I understand the friction of fees, inflation, and trust-building firsthand.
 
 **Technical Transition**
 From visual storytelling to Bitcoin infrastructure. Currently mastering the **Bitcoin Business Track at Plan ₿ Network**, focusing on the Lightning Network and retail adoption.
