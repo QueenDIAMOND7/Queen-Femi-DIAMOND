@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Technical+Product+Manager;Bitcoin+Infrastructure+Strategist;Top+20+Global+Rank+-+Plan+%E2%82%BF;Building+Financial+Sovereignty" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Technical+Product+Manager;Bitcoin+Infrastructure+Strategist;Top+20+Global+Rank+2026+-+Plan+%E2%82%BF;Building+Financial+Sovereignty" alt="Typing SVG" />
 </p>
 
 # 👑 Queen Diamond | Technical Product Manager
