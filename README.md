@@ -5,12 +5,11 @@
 # 👑 Queen Diamond | Technical Product Manager
 **Strategic PM & Political Scientist | Focused on Bitcoin Infrastructure & Financial Sovereignty in Africa.**
 
-> [cite_start]"Beyond the hype: Building financial sovereignty through the lens of Political Science, Real-World Business, and Bitcoin Infrastructure." [cite: 3-5]
-
+> "Beyond the hype: Building financial sovereignty through the lens of Political Science, Real-World Business, and Bitcoin Infrastructure." 
 ---
 
 ### ⚡ Overview
-I am a **Technical Product Manager** specializing in Bitcoin infrastructure and decentralized governance. My journey is a fusion of rigorous academic training in **Political Science** and hands-on **Entrepreneurship**. [cite_start]Currently, I bridge the gap between complex protocols and real-world economic impact for the West African market[cite: 4, 23].
+I am a **Technical Product Manager** specializing in Bitcoin infrastructure and decentralized governance. My journey is a fusion of rigorous academic training in **Political Science** and hands-on **Entrepreneurship**. Currently, I bridge the gap between complex protocols and real-world economic impact for the West African market.
 
 ###  Tech & PM Stack
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-Infrastructure-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
@@ -18,19 +17,19 @@ I am a **Technical Product Manager** specializing in Bitcoin infrastructure and 
 ![Agile](https://img.shields.io/badge/Agile-Scrum-D4AF37?style=for-the-badge)
 
 * **Product Leadership:** Roadmap definition, Backlog grooming, and Team coordination of cross-functional teams (Devs, UI/UX).
-* [cite_start]**Bitcoin Ecosystem:** Specialized in Lightning Network adoption, Merchant payment solutions, and Self-custody security[cite: 17, 46].
+* **Bitcoin Ecosystem:** Specialized in Lightning Network adoption, Merchant payment solutions, and Self-custody security.
 * **Frameworks:** Mastery of **MoSCoW & RICE** prioritization models to ensure high-impact delivery.
-* [cite_start]**Tools:** GitHub (PM Workflows), Notion, Jira, and Advanced Prompt Engineering for workflow optimization[cite: 48, 88].
+* **Tools:** GitHub (PM Workflows), Notion, Lark, and Advanced Prompt Engineering for workflow optimization.
 
 ---
 
 ###  Proof of Work (2026 Roadmap)
 
-- [x] **Top 20 Global Rank** | [cite_start]Plan ₿ Network - Bitcoin Business Track[cite: 5, 11].
-- [ ] **Individual Assignment (Week 10)** | **Wizardsardine** - Bitcoin Individual Assignment.
+- [x] **Top 20 Global Rank (2026)** | Plan ₿ Network - Bitcoin Business Track.
+- [ ] **Individual Assignment ** | **Wizardsardine** - Bitcoin Individual Assignment.
 - [x] **SpendSat Infrastructure** | Strategy & Product Definition for Bitcoin spending in Africa.
-- [ ] **Google PM Certification** | [cite_start]Professional standardizing of Agile & Scrum methodologies [cite: 36-37].
-- [ ] **Fem'IMA Program** | [cite_start]Accelerating tech leadership with Sèmè City [cite: 108-110].
+- [ ] **Google PM Certification** | Professional standardizing of Agile & Scrum methodologies.
+- [ ] **Fem'IMA Program** | Accelerating tech leadership with Sèmè City.
 
 ---
 
@@ -42,11 +41,11 @@ I am a **Technical Product Manager** specializing in Bitcoin infrastructure and 
 ---
 
 ###  Beyond the Backlog
-* [cite_start]**Heritage:** Proud daughter of **Benin, Nigeria, and Togo** [cite: 79-80].
+* **Heritage:** Proud daughter of **Benin, Nigeria, and Togo** .
 * **Aesthetic:** Lover of nature and the harmony of **Gold (#D4AF37), Deep Purple (#660066), and White**.
 * **Mindset:** "Every setback is just a data point for a better strategy."
 
 ###  Let's Connect!
-[**LinkedIn**](https://www.linkedin.com/in/queenfemidiamond/) | [**Twitter/X**](https://x.com/Queen_DIAMOND) | [cite_start]**Email:** diamondq748@yahoo.com [cite: 7-9]
+[**LinkedIn**](https://www.linkedin.com/in/queenfemidiamond/) | [**Twitter/X**](https://x.com/Queen_DIAMOND) | **Email:** diamondq748@yahoo.com 
 
 **Currently building: SpendSat ⚡**
